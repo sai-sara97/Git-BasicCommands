@@ -1,0 +1,6 @@
+#Ignore.jpg files
+*.jpg
+
+#Ignore the files starts with s
+s*.jar
+
